@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="40"/>
+    <img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="42"/>
   </a>&nbsp;
 
   <a href="https://reactnative.dev/" target="_blank">
