@@ -1,6 +1,6 @@
 <h1>Hi👋, I&#39;m Ali Emre Tanrıkulu</h1>
 
-<p>I graduated from Yeditepe University, Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in the field of <strong>Front-End Development.</strong> In addition to the use of basic technologies such as HTML, CSS and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS. </p>
+<p>I graduated from Yeditepe University, Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in the field of <strong><u>Front-End Development.</strong></u> In addition to the use of basic technologies such as HTML, CSS and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS. </p>
 
 
 <h3>Connect with me</h3>
@@ -49,6 +49,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img alt="mssql" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/sqlserver.svg" width="55" />
   </a&nbsp;
+  
   <a href="https://www.oracle.com/" target="_blank">
     <img alt="oracle" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/oracle.svg" width="55" />
   </a>
