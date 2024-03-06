@@ -8,7 +8,7 @@
 <p>
   <a href="https://www.linkedin.com/in/ali-emre-tanr%C4%B1kulu/" target="_blank">
     <img alt="aliemretanrikulu" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/linked-in-alt.svg" width="40" />
-  </a>&nbsp; &nbsp;
+  </a> &nbsp;
   <a href="https://instagram.com/tanrikluemre" target="_blank">
     <img alt="tanrikluemre" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/instagram.svg" width="40" />
   </a>
