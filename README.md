@@ -31,7 +31,7 @@
 
   <a href="https://www.w3.org/html/" target="_blank">
     <img alt="html5" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/html5.svg" width="40"/>
-  </a>;&nbsp;
+  </a>&nbsp;
 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="css3" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/css3.svg" width="40"/>
