@@ -5,7 +5,7 @@
 
 <h3>Connect with me</h3>
 
-<p><a href="https://www.linkedin.com/in/ali-emre-tanr%C4%B1kulu/" target="_blank"><img alt="aliemretanrikulu" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/social_icon/linked-in-alt.svg" width="40" /></a>&nbsp; &nbsp;<a href="https://instagram.com/tanrikluemre" target="blank"><img alt="tanrikluemre" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/social_icon/instagram.svg" width="40" /></a></p>
+<p><a href="https://www.linkedin.com/in/ali-emre-tanr%C4%B1kulu/" target="_blank"><img alt="aliemretanrikulu" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/linked-in-alt.svg" width="40" /></a>&nbsp; &nbsp;<a href="https://instagram.com/tanrikluemre" target="blank"><img alt="tanrikluemre" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/instagram.svg" width="40" /></a></p>
 
 
 <h3>Languages:</h3>
