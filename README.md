@@ -18,28 +18,29 @@
 
 <p>
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="40" />
+    <img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="40"/>
+  </a>&nbsp;
+
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="reactnative" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactnative.svg" width="40"/>
+  </a>&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="javascript" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/javascript.svg" width="40"/>
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img alt="html5" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/html5.svg" width="40"/>
+  </a>;&nbsp;
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="css3" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/css3.svg" width="40"/>
   </a>&nbsp;
   
   <a href="https://angular.io" target="_blank">
-    <img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="40" />
+    <img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="40"/>
   </a>&nbsp;
   
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="reactnative" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactnative.svg" width="40" />
-  </a>&nbsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="css3" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/css3.svg" width="40" />
-  </a>&nbsp;
-  
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="html5" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/html5.svg" width="40" />
-  </a>;&nbsp;
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="javascript" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/javascript.svg" width="40" />
-  </a>
 </p>
 
 <h3>Databases and Tools</h3>
