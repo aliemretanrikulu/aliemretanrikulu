@@ -21,8 +21,6 @@
 <a href="https://www.w3.org/html/" target="_blank"><img alt="html5" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/html5.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/javascript.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://nextjs.org/" target="_blank"> <img alt="nextjs" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/nextjs.svg" width="40" />
 </a>
 
 <h3>Databases and Tools:</h3>
