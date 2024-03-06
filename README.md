@@ -38,7 +38,7 @@
   </a>&nbsp;
   
   <a href="https://angular.io" target="_blank">
-    <img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="50"/>
+    <img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="48"/>
   </a>
   
 </p>
