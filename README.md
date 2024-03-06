@@ -10,29 +10,29 @@
 
 <h3>Languages:</h3>
 
-<p><a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/languages_icon/reactjs.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<p><a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://angular.io" target="_blank"><img alt="angular" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/languages_icon/angular.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://angular.io" target="_blank"><img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://reactnative.dev/" target="_blank"><img alt="reactnative" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/languages_icon/reactnative.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"> 
+<a href="https://reactnative.dev/" target="_blank"><img alt="reactnative" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactnative.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"> 
 
-<img alt="css3" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/languages_icon/css3.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<img alt="css3" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/css3.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.w3.org/html/" target="_blank"><img alt="html5" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/html5.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/javascript.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://nextjs.org/" target="_blank"> <img alt="nextjs" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/languages_icon/nextjs.svg" width="40" />
+<a href="https://nextjs.org/" target="_blank"> <img alt="nextjs" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/nextjs.svg" width="40" />
 </a>
 
 <h3>Databases and Tools:</h3>
 
 <p>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="mssql" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/databases_and_tools/sqlserver.svg" width="40" />
+    <img alt="mssql" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/sqlserver.svg" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<a href="https://www.oracle.com/" target="_blank"><img alt="oracle" src="https://github.com/aliemretanrikulu/aliemretanrikulu/blob/main/databases_and_tools/oracle.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/" target="_blank"><img alt="oracle" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/oracle.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
 <p>&nbsp;</p>
