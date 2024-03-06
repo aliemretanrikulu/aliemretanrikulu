@@ -10,7 +10,7 @@
 
 <h3>Languages:</h3>
 
-<p><a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<p><a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/reactjs.svg" width="40" /></a>&nbsp;&nbsp;
 
 <a href="https://angular.io" target="_blank"><img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
