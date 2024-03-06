@@ -47,10 +47,10 @@
 
 <p>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="mssql" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/sqlserver.svg" width="50" />
+    <img alt="mssql" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/sqlserver.svg" width="55" />
   </a&nbsp;
   <a href="https://www.oracle.com/" target="_blank">
-    <img alt="oracle" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/oracle.svg" width="50" />
+    <img alt="oracle" src="https://github.com/hakanozer/hakanozer/blob/main/databases_and_tools/oracle.svg" width="55" />
   </a>
 </p>
 
