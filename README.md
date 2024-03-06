@@ -39,7 +39,7 @@
   
   <a href="https://angular.io" target="_blank">
     <img alt="angular" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/angular.svg" width="40"/>
-  </a>&nbsp;
+  </a>
   
 </p>
 
