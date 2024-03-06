@@ -1,4 +1,4 @@
-<h1>Hi 👋, I&#39;m Ali Emre Tanrıkulu</h1>
+<h1>Hi👋, I&#39;m Ali Emre Tanrıkulu</h1>
 
 <p>I graduated from Yeditepe University, Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in the field of <strong>Front-End Development.</strong> In addition to the use of basic technologies such as HTML, CSS and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS. </p>
 
