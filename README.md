@@ -27,7 +27,7 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="javascript" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/javascript.svg" width="40"/>
-  </a>
+  </a>&nbsp;
 
   <a href="https://www.w3.org/html/" target="_blank">
     <img alt="html5" src="https://github.com/hakanozer/hakanozer/blob/main/languages_icon/html5.svg" width="40"/>
