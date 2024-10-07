@@ -17,30 +17,37 @@
 
 <h2 align="left">Languages</h2>
 
+<p align="left">
 <div style="display: flex; align-items: center;">
-  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" style="text-decoration: none; margin-right: 12px;">
+  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# logo" height="40" width="52" />
   </a>
+  </p>
   
   <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="40" width="52" />
   </a>
+  </p>
 
   <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" height="40" width="52" />
   </a>
+  </p>
 
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" height="40" width="52" />
   </a>
+  </p>
 
   <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" height="40" width="52" />
   </a>
+  </p>
 
   <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP logo" height="40" width="52" />
   </a>
+  </p>
 </div>
 
 <h2 align="left">Databases and Tools</h2>
