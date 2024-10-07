@@ -55,6 +55,8 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
+<p>&nbsp;</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliemretanrikulu&show_icons=true&locale=en&layout=compact" alt="aliemretanrikulu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliemretanrikulu&show_icons=true&locale=en" alt="aliemretanrikulu" /></p>
