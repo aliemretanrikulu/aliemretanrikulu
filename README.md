@@ -36,12 +36,12 @@
 <h2 align="left">Databases and Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"(https://www.microsoft.com/tr-tr/sql-server/) height="40" alt="microsoftsqlserver logo"  />
+  <a href="[https://linkedin.com/in/ali-emre-tanrikulu](https://www.microsoft.com/tr-tr/sql-server/)"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" target="blank"><img align="center" height="40" alt="microsoftsqlserver logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
