@@ -6,11 +6,6 @@
 - 🔍 I’m currently learning **C#** and **.NET**
 - 📧 How to reach me **aliemretanrikulu@gmail.com**
 
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 
 <h2 align="left">Connect with me</h2>
