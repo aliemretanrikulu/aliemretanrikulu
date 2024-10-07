@@ -1,8 +1,10 @@
-<h1 align="left">Hi👋 Ali Emre Tanrıkulu</h1>
+<h1>Hi👋 I&#39;m Ali Emre Tanrıkulu</h1>  
 
-###
+<p>I graduated from Yeditepe University's Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in <strong>Full-Stack Development.</strong> Besides using basic technologies such as HTML, CSS, and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS. </p>
 
-<p align="left">I graduated from Yeditepe University's Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in Full-Stack Development. Besides using basic technologies such as HTML, CSS, and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS.<br><br>👨🏽‍💻 I’m currently working in the JavaScript<br>🔍 I’m currently learning C# and .NET<br>📧 How to reach me aliemretanrikulu@gmail.com</p>
+- 👨🏽‍💻 I’m currently working in the **JavaScript** 
+- 🔍 I’m currently learning **C#** and **.NET**
+- 📧 How to reach me **aliemretanrikulu@gmail.com**
 
 ###
 
@@ -52,5 +54,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
+
+
 
 ###
