@@ -1,4 +1,3 @@
-# aboutme
 <h1 align="left">Hi👋 Ali Emre Tanrıkulu</h1>
 
 ###
