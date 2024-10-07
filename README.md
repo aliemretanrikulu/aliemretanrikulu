@@ -36,7 +36,7 @@
 <h2 align="left">Databases and Tools</h2>
 
 <div align="left">
-  <a href="https://www.microsoft.com/tr-tr/sql-server/"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" target="blank"><img align="center" height="40" alt="microsoftsqlserver logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
