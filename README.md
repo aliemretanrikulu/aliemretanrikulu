@@ -18,6 +18,9 @@
 
 <h2 align="left">Languages</h2>
 
+<a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="ali-emre-tanrikulu" height="40" width="52" /></a>
+
+
 <div align="left">
   <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
