@@ -19,12 +19,15 @@
 <h2 align="left">Languages</h2>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="blank" style="text-decoration: none; margin-right: 12px;">
+  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# logo" height="40" width="52" />
+  </a>
   
-  <a href="https://reactjs.org/" target="blank" style="text-decoration: none;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="40" width="52" />
+  </a>
 </div>
+
 
 
   <img width="12" />
