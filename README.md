@@ -18,63 +18,32 @@
 
 <h2 align="left">Languages</h2>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" style="text-decoration: none; margin-right: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# logo" height="40" width="52" />
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="40" width="52" />
-  </a>
+<div align="left">
+  <a class="no-underline" href="https://learn.microsoft.com/tr-tr/dotnet/csharp/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
 </div>
-
-
-
-  <img width="12" />
-  <a href="https://reactjs.org/" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://html.spec.whatwg.org/multipage/" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://www.w3.org/TR/CSS/" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  </a>
-  <img width="12" />
-  <a href="https://www.php.net/" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-  </a>
-</div>
-
 
 
 <h2 align="left">Databases and Tools</h2>
 
 <div align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
-  </a>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
-
-
 
 <p>&nbsp;</p>
 
@@ -83,5 +52,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliemretanrikulu&show_icons=true&locale=en" alt="aliemretanrikulu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliemretanrikulu&" alt="aliemretanrikulu" /></p>
-
 
