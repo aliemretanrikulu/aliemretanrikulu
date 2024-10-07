@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">I graduated from Yeditepe University's Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in Full-Stack Development. Besides using basic technologies such as HTML, CSS, and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS.<br><br>👨🏽‍💻 I’m currently working in the JavaScript<br>🔍 I’m currently learning C# and .NET<br>📧 How to reach me aliemretanrikulu@gmail.com</p>
+<p align="left">I graduated from Yeditepe University's Management Information Systems department. I am a software developer candidate who wants to use my interest in the web world in Full-Stack Development. Besides using basic technologies such as HTML, CSS, and JavaScript, I am interested in JavaScript libraries and frameworks, especially ReactJS.<br><be>
+  - 👨🏽‍💻 I’m currently working in the JavaScript<be> 
+  - 🔍 I’m currently learning C# and .NET<be>
+  - 📧 How to reach me aliemretanrikulu@gmail.com</p>
 
 ###
 
