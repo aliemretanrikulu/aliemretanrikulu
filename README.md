@@ -6,6 +6,12 @@
 - 🔍 I’m currently learning **C#** and **.NET**
 - 📧 How to reach me **aliemretanrikulu@gmail.com**
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 
 <h2 align="left">Connect with me</h2>
 
@@ -18,7 +24,7 @@
 <h2 align="left">Languages</h2>
 
 <div align="left">
-  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="12" />
@@ -51,3 +57,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliemretanrikulu&show_icons=true&locale=en" alt="aliemretanrikulu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliemretanrikulu&" alt="aliemretanrikulu" /></p>
+
+
