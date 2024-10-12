@@ -49,6 +49,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server logo" height="40" width="52" />
   </a>
+
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" style="text-decoration: none; margin-right: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" height="40" width="52" />
   
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git logo" height="40" width="52" />
