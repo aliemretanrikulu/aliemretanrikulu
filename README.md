@@ -53,6 +53,10 @@
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git logo" height="40" width="52" />
   </a>
+
+  <a href="https://learn.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0" target="_blank" style="text-decoration: none; margin-right: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dot-net logo" height="40" width="52"/>
+  </a>
   
   <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker logo" height="40" width="52" />
