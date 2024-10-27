@@ -2,8 +2,8 @@
 
 <p>I'm a <strong>Full-Stack Developer.</strong> I'm interested in JavaScript libraries and frameworks, especially ReactJS. </p>
 
-- 👨🏽‍💻 I’m currently working in the **JavaScript** 
-- 🔍 I’m currently learning **C#** and **.NET**
+- 👨🏽‍💻 I’m currently working in the **C#** and **.NET**  
+- 🔍 I’m currently learning **React**
 - 📧 How to reach me **aliemretanrikulu@gmail.com**
 
 
