@@ -68,6 +68,13 @@
   <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman logo" height="40" width="52" />
   </a>
+
+  <a href="https://visualstudio.microsoft.com/tr/" target="_blank" style="text-decoration: none; margin-right: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"  alt="visualstudio logo"  height="40" width="52"  />
+  
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; margin-right: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"  alt="vscode logo"  height="40" width="52"  />
+
 </div>
 
 
